@@ -19,9 +19,9 @@ function First() {
         <div >
             <br></br>
             <label>Temperature in Fahrenheit :</label>
-            <p>{temp.fahrenheit}</p>
+            <p>{temp.fahrenheit} F</p>
             <label>Temperature in kelvin :</label>
-            <p>{temp.kelvin}</p>
+            <p>{temp.kelvin} K</p>
         </div>
       </fieldset>
     </>
